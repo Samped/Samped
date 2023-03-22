@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Samped
-- 👀 I’m interested in blockchain, javascript
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Node.js
 - 💞️ I’m looking to collaborate on small and big project on blockchain or javascript
 - 📫 How to reach me: michaelsamuelpedro@gmail.com
 
